@@ -1,0 +1,7 @@
+@media screen and (max-width: 959px) and (min-width: 800px){
+ 
+ body{
+ 
+	width:750px
+ }
+}
